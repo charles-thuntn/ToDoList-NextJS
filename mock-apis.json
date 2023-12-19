@@ -1,0 +1,92 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "title": "Read book",
+      "description": "Learning React.js",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "title": "Play football",
+      "description": "With my friends",
+      "status": 2
+    },
+    {
+      "id": 3,
+      "title": "Play games",
+      "description": "",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "title": "Go to sleep",
+      "description": "",
+      "status": 2
+    },
+    {
+      "id": 5,
+      "title": "Working",
+      "description": "Work continute",
+      "status": 0
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "content post 1",
+      "introduce": "introduce post 1",
+      "author": "author post 1"
+    },
+    {
+      "id": 2,
+      "title": "content post 2",
+      "introduce": "introduce post 2",
+      "author": "author post 2"
+    },
+    {
+      "id": 3,
+      "title": "content post 3",
+      "introduce": "introduce post 3",
+      "author": "author post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "posts-test-seo":[
+    { "id": 1, "title": "Content post 1", "introduce": "Introduce post 1", "author": "author post 1", "image":"https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 2, "title": "Content post 2", "introduce": "Introduce post 2", "author": "author post 2", "image":"https://i.fltcdn.net/contents/1519/original_1437543981830_j6ozluzbyb9.jpeg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 3, "title": "Content post 3", "introduce": "Introduce post 3", "author": "author post 3", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-7.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 4, "title": "Content post 4", "introduce": "Introduce post 4", "author": "author post 4", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-1.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 5, "title": "Content post 5", "introduce": "Introduce post 5", "author": "author post 5", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-13.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 6, "title": "Content post 6", "introduce": "Introduce post 6", "author": "author post 6", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-20.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 7, "title": "Content post 7", "introduce": "Introduce post 7", "author": "author post 7", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-23.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" },
+    { "id": 8, "title": "Content post 8", "introduce": "Introduce post 8", "author": "author post 8", "image":"https://excel-cracker.com/wp-content/uploads/2019/10/anh-con-meo-24.jpg", "updatedAt": "2020-08-29T02:47:40.753Z" }
+  ],
+  "cart-courses": [
+  ],
+  "edu-cart-courses": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+  ],
+  "client-info":
+  {
+    "email": "info@tst.edu.vn",
+    "phone": "(+84) 907756807",
+    "bank_account": "0315748857",
+    "workingTime": "10h - 20h (Từ thứ 2 đến thứ 6)",
+    "address": "139/37 đường Nguyễn Văn Lượng, Phường 10, Gò Vấp Tp Hồ Chí Minh",
+    "status": "ON"
+  }
+}
